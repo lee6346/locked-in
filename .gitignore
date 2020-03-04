@@ -1,0 +1,6 @@
+.vs/
+npm-debug.log
+.vscode
+bin/
+obj/
+src/client/node_modules
